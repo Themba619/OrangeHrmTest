@@ -26,4 +26,4 @@ Since this is my first Selenium project, I made the mistake of placing the test 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Themba619/OrangeHrmTest>
